@@ -1,16 +1,16 @@
-## Hi there 👋
+## editpot
 
-<!--
-**editpot/editpot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A layered image editor that runs in your browser by default — resize, crop, transparent PNGs, text, favicons and GIF frame editing, with no signup and no watermark.
 
-Here are some ideas to get you started:
+**[editpot.com](https://editpot.com)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Resize · crop · rotate · canvas resize
+- Layers with masks, blend modes, strokes and shadows
+- Selections: lasso, magic wand, feathering
+- Favicons: real `.ico` files plus a full size set
+- Animated GIF frame editing
+- Opens PSD and AI files as flattened images
+
+Editing runs on canvas in the browser by default, so files are not uploaded to be processed.
+
+Built with Nuxt 4, Tailwind CSS and the Canvas API.
